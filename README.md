@@ -4,6 +4,7 @@
 * 🌍  I'm based in New Delhi, India
 * 🖥️  Check Out my [Main Github Account](https://github.com/prabhatbhatiaa) 
 * 🧠  I'm currently learning [React](https://github.com/prabhatb-alt/react-practice)
+* 👨‍💻  Here is my [Leetcode](https://leetcode.com/u/prabhat_alt/) (alternative ofcourse)
   
 ## Languages & Tools
 <p align="left">
